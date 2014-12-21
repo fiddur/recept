@@ -10,3 +10,6 @@ Knäck
 
 * 2 dl skorpsmulor
 * 3 ml bakpulver
+* 
+
+125 grader för halvhårdknäck.
