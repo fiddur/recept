@@ -13,18 +13,16 @@ Kom ihåg att göra den dagen innan…
 * 20 ml socker
 
 1. Värm mjölken till 60°C.
-
-2. Vispa ihop äggen med filmjölken. Vispa ner blandningen i den varma mjölken. Fortsätt att värma
-   på medelvärme 30-60 minuter, tills den skär sig. Rör sakta då och då, det är viktigt att mjölken
-   inte kokar. Ta kastrullen från värmen, låt svalna med lock på ca 20 minuter.
-
-3. Lägg en silduk/kökshandduk i ett durkslag (man kan också använda en form med små hål i, s k
+2. Vispa ihop äggen med filmjölken.
+3. Vispa ner blandningen i den varma mjölken.
+4. Fortsätt att värma på medelvärme 30-60 minuter, tills den skär sig. Rör sakta då och då, det är
+   viktigt att mjölken inte kokar.
+5. Ta kastrullen från värmen, låt svalna med lock på ca 20 minuter.
+6. Lägg en silduk/kökshandduk i ett durkslag (man kan också använda en form med små hål i, s k
    äggostform).  Ös försiktigt upp ostmassan med en hålslev, lägg först ett lager ostmassa, strö
    sedan över lite av sockret. Upprepa detta tre gånger.
-
-4. Låt äggosten stå kallt några timmar (gärna över natten) tills all vassle runnit av.
-
-5. Stjälp upp äggosten och servera med färska björnbär eller björnbärssylt.
+7. Låt äggosten stå kallt några timmar (gärna över natten) tills all vassle runnit av.
+8. Stjälp upp äggosten och servera med färska björnbär eller björnbärssylt.
 
 (Beskrivningstext från ICA.)
 
