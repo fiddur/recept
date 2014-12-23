@@ -4,6 +4,8 @@ Pepparkakor
 Gällande recept
 ---------------
 
+200º varmluft (eko-blås på vår ugn), 3½ - 5 minuter beroende på tjocklek.
+
 1. Rör ihop klet:
   * 420 g sirap (3 dl)
   * 400 g socker (5 dl)
