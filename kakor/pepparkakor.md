@@ -24,17 +24,17 @@ Gällande recept
 Changelog:
 ----------
 
-2011. Utgick ifrån "Mormors mormors pepparkakor".
+* 2011: Utgick ifrån "Mormors mormors pepparkakor".
 
-2012. Mer kryddor:
+* 2012: Mer kryddor:
   * 1 msk ingefära
   * 1 msk kryddnejlika
   * 2 msk kanel
   * ½ msk kardemumma
 
-2013. Brödsirap istället för ljus sirap.  (Detta gick jag emellertid ifrån pga brist på ekologisk brödsirap.)
+* 2013: Brödsirap istället för ljus sirap.  (Detta gick jag emellertid ifrån pga brist på ekologisk brödsirap.)
 
-2014. Mer ingefära
+* 2014: Mer ingefära
   * 2 msk ingefära
 
 
