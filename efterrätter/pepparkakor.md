@@ -9,10 +9,10 @@ Gällande recept
 1. Rör ihop klet:
   * 420 g sirap (3 dl)
   * 400 g socker (5 dl)
-  * 2 msk ingefära
-  * 1 msk kryddnejlika (mald)
-  * 2 msk kanel
-  * ½ msk kardemumma
+  * 4 msk ingefära
+  * 2 msk kryddnejlika (mald)
+  * 4 msk kanel
+  * 1 msk kardemumma
   * 350 g smör
 2. Vispa:
   * 3 dl vispgrädde
@@ -26,7 +26,12 @@ Gällande recept
 Changelog:
 ----------
 
-* 2011: Utgick ifrån "Mormors mormors pepparkakor".
+* 2015: Dubblade kryddor!
+
+* 2014: Mer ingefära
+  * 2 msk ingefära
+
+* 2013: Brödsirap istället för ljus sirap.  (Detta gick jag emellertid ifrån pga brist på ekologisk brödsirap.)
 
 * 2012: Mer kryddor:
   * 1 msk ingefära
@@ -34,10 +39,8 @@ Changelog:
   * 2 msk kanel
   * ½ msk kardemumma
 
-* 2013: Brödsirap istället för ljus sirap.  (Detta gick jag emellertid ifrån pga brist på ekologisk brödsirap.)
+* 2011: Utgick ifrån "Mormors mormors pepparkakor".
 
-* 2014: Mer ingefära
-  * 2 msk ingefära
 
 
 
