@@ -12,6 +12,7 @@ Ingredienser:
 * 255 g socker
 * 150 g sirap
 * 1 krm salt
-* flingsalt
+* flingsalt till garnering
 
-Koka ihop till 128º.  Häll ut på bakplåtspapper, ca 20·30 cm.  Strö på flingsalt.
+Mät upp allt direkt i grytan.  Se vispa ner kakaon ordentligt så det inte är några klumpar.  Koka
+ihop till 128º.  Häll ut på bakplåtspapper, ca 20·30 cm.  Strö på flingsalt.
