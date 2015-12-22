@@ -9,7 +9,7 @@ Rödbetssallad
 * 80 g iMat (havregrädde)
 
 
-Urpsrungligen crème fraishe, men gjort mjölkfritt nu pga intolerans.
+Urpsrungligen crème fraiche, men gjort mjölkfritt nu pga intolerans.
 
 …örtsalt & vitpeppar stod med i tidigare versioner, men jag tror inte vi (David…) hade i det senast
 och det blev gott…
