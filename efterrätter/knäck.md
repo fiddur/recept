@@ -5,9 +5,8 @@ Knäck, ca 130 st
 * 420 g sirap
 *  90 g smör
 * 300 g (2 dl) grädde
-* 150 g mandel
+* 200 g mandel
 * 2,2 g (3 ml) bakpulver
-
 
 1. Mät upp socker, sirap, smör och grädde i en gryta och låt koka tills det når 125º.  Gör under
    tiden 2 - 4.
