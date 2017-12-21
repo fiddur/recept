@@ -15,7 +15,7 @@ Gällande recept
   * 1 msk kardemumma
   * 350 g smör
 2. Vispa:
-  * 3 dl vispgrädde
+  * 3½ dl vispgrädde
 3. Blanda:
   * 1½ kg dinkelmjöl, siktat
   * 1 msk bikarbonat
