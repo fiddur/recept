@@ -9,10 +9,10 @@ Gällande recept
 1. Rör ihop klet:
   * 420 g sirap (3 dl)
   * 400 g socker (5 dl)
-  * 4 msk ingefära
-  * 2 msk kryddnejlika (mald)
-  * 4 msk kanel
-  * 1 msk kardemumma
+  * 30 g ingefära (4 msk)
+  * 15 g kryddnejlika, mald (2 msk)
+  * 30 g kanel (4 msk)
+  * 7 g kardemumma (1 msk)
   * 350 g smör
 2. Vispa:
   * 3½ dl vispgrädde
@@ -25,6 +25,8 @@ Gällande recept
 
 Changelog:
 ----------
+
+* 2018: Vikt för kryddorna.  Funderar på att öka vispgrädden lite dock...
 
 * 2015: Dubblade kryddor!
 
