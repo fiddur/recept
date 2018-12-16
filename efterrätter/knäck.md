@@ -4,7 +4,7 @@ Knäck, ca 130 st
 * 255 g socker
 * 420 g sirap
 *  90 g smör
-* 300 g (2 dl) grädde
+* 300 g (3 dl) grädde
 * 200 g mandel
 * 2,2 g (3 ml) bakpulver
 
