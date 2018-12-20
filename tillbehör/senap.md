@@ -1,7 +1,7 @@
 Senap
 =====
 
-Julsenap 2015
+Julsenap 2018
 -------------
 
 Det skirade smöret gör att senapen är ganska fast i kylskåpstemperatur.  Jag malde den väldigt
@@ -11,8 +11,8 @@ grovt.
 * 60 g bruna senapsfrön
 * 60 g julöl [Hökås gård Winter Ale](http://fredrik.liljegren.org/winter-ale-brewing/)
 * 40 g honung
-* 10 g salt
-* 35 g  ghee (skirat smör)
+*  6 g salt
+* 35 g ghee (skirat smör)
 
 1. Krossa fröna med senapskulan i gjutjärnsskålen. (Torrkrossning…)
 
