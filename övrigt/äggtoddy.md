@@ -1,12 +1,14 @@
 Äggtoddy
 ========
 
+Per kopp (3 dl?)
+
 Vispa fluffigt:
 
-* 1 äggula
-* 7 ml florsocker
+* 3-4 äggulor
+* 10 ml florsocker
 
 Tillsätt:
 
-* 4 cl rom
-* 5 cl kokhett vatten
+* 8 cl rom
+* 10 cl kokhett vatten
