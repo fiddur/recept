@@ -4,8 +4,8 @@ Fransk nougat
 På långpanna i ugn på 100-110°:
 
 * 150 g pistage
-* 110 g rostade (eller iaf skalade) mandlar
-* 330 g pekan
+* 150 g rostade (eller iaf skalade) mandlar
+* 350 g pekan
 
 Rör i 30 minuter i gryta på låg värme:
 
