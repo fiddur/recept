@@ -1,7 +1,7 @@
 Rödbetssallad
 =============
 
-* 5 dl rödbetor, inlagda, tärnade
+* 350 g rödbetor, inlagda, tärnade
 * 120 g majonnäs
 * 5 dl äpple, tärnade
 * 1½ dl rödlök
