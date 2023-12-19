@@ -23,7 +23,7 @@ Ugn 225° 10+5 min
 * 500 g köttfärs
 * 1 ägg
 
-☝ Blanda allt, ställ i kylskåpet  
+☝ Blanda allt, ställ i kylskåpet och låt vila minst 10 minuter  
 ☝ Städa bänken =)  
 ☝ Forma bollar, grädda nere i ugnen 10 min
 ☝ Vänd alla och grädda övre delen 5 minuter  
