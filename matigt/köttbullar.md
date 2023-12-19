@@ -32,22 +32,10 @@ stora.
 🎗 Vid dubbelsats gräddas första plåten medan andra rullas ut, flyttas
 upp när den andra sätts in och tas ut i 5 minuter.
 
-![Lök...](köttbullar-img/01_lök.jpg | width=50%)
-
-![hackad lök](köttbullar-img/02_hackat.jpg | width=50%)
-
-![stekt lök](köttbullar-img/03_stekt.jpg)
-
-![sojasås tillsatt](köttbullar-img/04_soja_i_lök.jpg)
-
-![](köttbullar-img/05_blanda.jpg)
-
-![](köttbullar-img/06_allt.jpg)
-
-![](köttbullar-img/07_städa.jpg)
-
-![](köttbullar-img/08_rulla.jpg)
-
-![](köttbullar-img/09_grädda.jpg)
-
-![](köttbullar-img/10_njut.jpg)
+| lite                                      | bilder                                                |
+| ----------------------------------------- | ----------------------------------------------------- |
+| ![Lök...](köttbullar-img/01_lök.jpg)      | ![hackad lök](köttbullar-img/02_hackat.jpg)           |
+| ![stekt lök](köttbullar-img/03_stekt.jpg) | ![sojasås tillsatt](köttbullar-img/04_soja_i_lök.jpg) |
+| ![blanda](köttbullar-img/05_blanda.jpg)   | ![allt](köttbullar-img/06_allt.jpg)                   |
+| ![städa](köttbullar-img/07_städa.jpg)     | ![rulla](köttbullar-img/08_rulla.jpg)                 |
+| ![grädda](köttbullar-img/09_grädda.jpg)   | ![njut](köttbullar-img/10_njut.jpg)                   |
