@@ -32,22 +32,22 @@ stora.
 🎗 Vid dubbelsats gräddas första plåten medan andra rullas ut, flyttas
 upp när den andra sätts in och tas ut i 5 minuter.
 
-![Lök...](köttbullar-img/1 - lök.jpg | width=50%)
+![Lök...](köttbullar-img/01_lök.jpg | width=50%)
 
-![hackad lök](köttbullar-img/2 - hackat.jpg | width=50%)
+![hackad lök](köttbullar-img/02_hackat.jpg | width=50%)
 
-![stekt lök](köttbullar-img/3 - stekt.jpg)
+![stekt lök](köttbullar-img/03_stekt.jpg)
 
-![sojasås tillsatt](köttbullar-img/4 - soja i lök.jpg)
+![sojasås tillsatt](köttbullar-img/04_soja_i_lök.jpg)
 
-![](köttbullar-img/5 - blanda.jpg)
+![](köttbullar-img/05_blanda.jpg)
 
-![](köttbullar-img/6 - allt.jpg)
+![](köttbullar-img/06_allt.jpg)
 
-![](köttbullar-img/7 - städa.jpg)
+![](köttbullar-img/07_städa.jpg)
 
-![](köttbullar-img/8 - rulla.jpg)
+![](köttbullar-img/08_rulla.jpg)
 
-![](köttbullar-img/9 - grädda.jpg)
+![](köttbullar-img/09_grädda.jpg)
 
-![](köttbullar-img/10 - njut.jpg)
+![](köttbullar-img/10_njut.jpg)
