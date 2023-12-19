@@ -23,16 +23,16 @@ Ugn 225° 10+5 min
 * 500 g köttfärs
 * 1 ägg
 
-☝ Blanda allt, ställ i kylskåpet
-☝ Städa bänken =)
-☝ Forma bollar, grädda nere i ugnen 10 min, vänd alla,
-grädda övre delen 5 minuter.  Låt stå i eftervärme om bullarna är
-stora.
+☝ Blanda allt, ställ i kylskåpet  
+☝ Städa bänken =)  
+☝ Forma bollar, grädda nere i ugnen 10 min
+☝ Vänd alla och grädda övre delen 5 minuter  
+☝ Låt stå i eftervärme om bullarna är stora.
 
 🎗 Vid dubbelsats gräddas första plåten medan andra rullas ut, flyttas
 upp när den andra sätts in och tas ut i 5 minuter.
 
-| lite                                      | bilder                                                |
+| Dubbelsats                                | vid jul 2023...                                       |
 | ----------------------------------------- | ----------------------------------------------------- |
 | ![Lök...](köttbullar-img/01_lök.jpg)      | ![hackad lök](köttbullar-img/02_hackat.jpg)           |
 | ![stekt lök](köttbullar-img/03_stekt.jpg) | ![sojasås tillsatt](köttbullar-img/04_soja_i_lök.jpg) |
